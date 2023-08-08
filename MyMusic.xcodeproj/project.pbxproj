@@ -21,6 +21,8 @@
 		04A434722A8103D1001D9AF5 /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A434712A8103D1001D9AF5 /* FooterView.swift */; };
 		04A434752A811AD7001D9AF5 /* TrackDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04A434742A811AD7001D9AF5 /* TrackDetailView.xib */; };
 		04A434772A811AF7001D9AF5 /* TrackDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A434762A811AF7001D9AF5 /* TrackDetailView.swift */; };
+		04AA41C62A8249CD006D50E9 /* CMTime + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA41C52A8249CD006D50E9 /* CMTime + Extension.swift */; };
+		04AA41C82A82732C006D50E9 /* Nib.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AA41C72A82732C006D50E9 /* Nib.swift */; };
 		04C72F6E2A7A81EE0037BEA9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C72F6D2A7A81EE0037BEA9 /* AppDelegate.swift */; };
 		04C72F702A7A81EE0037BEA9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C72F6F2A7A81EE0037BEA9 /* SceneDelegate.swift */; };
 		04C72F722A7A81EE0037BEA9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C72F712A7A81EE0037BEA9 /* ViewController.swift */; };
@@ -48,6 +50,8 @@
 		04A434712A8103D1001D9AF5 /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
 		04A434742A811AD7001D9AF5 /* TrackDetailView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TrackDetailView.xib; sourceTree = "<group>"; };
 		04A434762A811AF7001D9AF5 /* TrackDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackDetailView.swift; sourceTree = "<group>"; };
+		04AA41C52A8249CD006D50E9 /* CMTime + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CMTime + Extension.swift"; sourceTree = "<group>"; };
+		04AA41C72A82732C006D50E9 /* Nib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nib.swift; sourceTree = "<group>"; };
 		04C72F6A2A7A81EE0037BEA9 /* MyMusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyMusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C72F6D2A7A81EE0037BEA9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04C72F6F2A7A81EE0037BEA9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +110,8 @@
 			isa = PBXGroup;
 			children = (
 				04A434672A7C1B59001D9AF5 /* UIViewController + Storyboard.swift */,
+				04AA41C52A8249CD006D50E9 /* CMTime + Extension.swift */,
+				04AA41C72A82732C006D50E9 /* Nib.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -322,7 +328,9 @@
 				04C72F862A7ACE9C0037BEA9 /* SearchResponse.swift in Sources */,
 				04A434632A7C10FF001D9AF5 /* SearchInteractor.swift in Sources */,
 				04A434722A8103D1001D9AF5 /* FooterView.swift in Sources */,
+				04AA41C62A8249CD006D50E9 /* CMTime + Extension.swift in Sources */,
 				04A4346E2A80EAA7001D9AF5 /* TrackCell.swift in Sources */,
+				04AA41C82A82732C006D50E9 /* Nib.swift in Sources */,
 				04C72F6E2A7A81EE0037BEA9 /* AppDelegate.swift in Sources */,
 				04C72F822A7A83A80037BEA9 /* MainTabBarController.swift in Sources */,
 				04A4345F2A7C10FF001D9AF5 /* SearchWorker.swift in Sources */,

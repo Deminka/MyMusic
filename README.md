@@ -9,6 +9,6 @@
 
 Музыка подгружается с AppMusic, стоит ограничение на вопроизведение в 30 сек, так как ограниченное вопроизведение без платной подписки.
 
-<img width="475" alt="Снимок экрана 2023-08-14 в 20 55 06" src="https://github.com/Deminka/MyMusic/assets/69207847/8c6e54c4-3c85-4fdb-9b30-f5a3d0ac6612">
-<img width="475" alt="Снимок экрана 2023-08-14 в 20 55 19" src="https://github.com/Deminka/MyMusic/assets/69207847/1cc87fb7-4b02-40bc-b752-1b4c84c509ef">
-<img width="475" alt="Снимок экрана 2023-08-14 в 20 55 31" src="https://github.com/Deminka/MyMusic/assets/69207847/ebe3cb1b-5826-4ff7-a0b3-38de2de75c06">
+<img width="475" alt="Снимок экрана 2023-08-14 в 20 55 06" src="https://github.com/Deminka/MyMusic/assets/69207847/f482013b-e3ed-4ffb-b733-728fd7a12a2e">
+<img width="475" alt="Снимок экрана 2023-08-14 в 20 55 19" src="https://github.com/Deminka/MyMusic/assets/69207847/9741a468-224b-4f8a-952a-df4fd0f64883">
+<img width="475" alt="Снимок экрана 2023-08-14 в 20 55 31" src="https://github.com/Deminka/MyMusic/assets/69207847/390c3a85-bbcd-4d8f-a11d-243cbbc1f6dc">
